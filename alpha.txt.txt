@@ -1,1 +1,2 @@
 alpha file
+new line
